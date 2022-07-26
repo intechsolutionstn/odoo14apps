@@ -1,19 +1,19 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {
-    "name": "Helpdesk Management",
+    "name": "InTech Helpdesk Management",
     "summary": """
         Helpdesk""",
     "version": "14.0.1.8.0",
     "license": "AGPL-3",
     "category": "After-Sales",
-    "author": "AdaptiveCity, "
+    "author": "InTech Solutions "
     "C2i Change 2 Improve, "
     "Domatix, "
     "Factor Libre, "
     "SDi Soluciones, "
     "Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/helpdesk",
+    "website": "www.intech-eg.tech",
     "depends": ["mail", "portal"],
     "data": [
         "data/helpdesk_data.xml",
