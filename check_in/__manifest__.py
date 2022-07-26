@@ -3,7 +3,7 @@
     'name': "Incoming Payments - Check ",
 
     'summary': """
-       Imprission de certificat de retenue à la source""",
+       this module allows you to tick the incoming check payment in odoo payment""",
     'description': """
         Model de Incoming Payments  Check
     """,
